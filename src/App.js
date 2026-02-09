@@ -9,7 +9,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 
-const API_URL = 'https://YOUR-RAILWAY-URL/api';
+const API_URL = 'https://aethermind-backend-production.up.railway.app/api';
 
 // INDUSTRY-SPECIFIC USE CASES (5+ per industry)
 const INDUSTRY_USE_CASES = {
